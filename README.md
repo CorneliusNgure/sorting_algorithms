@@ -34,13 +34,10 @@ Each sorting algorithm is implemented as a separate task. The README.md file in 
 
 How to Use
 
-Clone the repository: git clone https://github.com/CorneliusNgure/sorting_algorithms.git
-
-Navigate to the desired sorting algorithm directory.
-
-Compile the C file using a C compiler: gcc -Wall -Werror -Wextra -pedantic <source_file.c> -o <output_file>
-
-Run the compiled executable to see the sorting algorithm in action.
+1. Clone the repository: git clone https://github.com/CorneliusNgure/sorting_algorithms.git
+2. Navigate to the desired sorting algorithm directory.
+3. Compile the C file using a C compiler: gcc -Wall -Werror -Wextra -pedantic <source_file.c> -o <output_file>
+4. Run the compiled executable to see the sorting algorithm in action.
 
 Contribution Guidelines
 
