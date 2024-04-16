@@ -1,4 +1,5 @@
 Overview
+
 This repository contains implementations of various sorting algorithms in C. The goal is to understand different sorting techniques, analyze their time complexities, and learn when to use each algorithm based on the input data characteristics.
 
 Key Objectives
@@ -28,16 +29,23 @@ Sorting Algorithms Implemented
 13. Sort Deck of Cards
 
 Tasks Overview
+
 Each sorting algorithm is implemented as a separate task. The README.md file in each task directory contains detailed instructions, function prototypes, and time complexity analysis.
 
 How to Use
+
 Clone the repository: git clone https://github.com/CorneliusNgure/sorting_algorithms.git
+
 Navigate to the desired sorting algorithm directory.
+
 Compile the C file using a C compiler: gcc -Wall -Werror -Wextra -pedantic <source_file.c> -o <output_file>
+
 Run the compiled executable to see the sorting algorithm in action.
 
 Contribution Guidelines
+
 Contributions to enhance existing algorithms, add new sorting algorithms, or improve documentation are welcome. Please follow the project's code style and guidelines when contributing.
 
 Credits
+
 This project is part of the curriculum of the ALX School Africa, done by Cornelius Ngure.
